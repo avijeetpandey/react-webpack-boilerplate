@@ -1,0 +1,8 @@
+{
+  "name": "react-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple and Plain react webpack boilerplatecode",
+  "main": "index.js",
+  "author": "Avijeet Pandey",
+  "license": "MIT"
+}
