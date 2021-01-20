@@ -6,7 +6,7 @@
   "author": "Avijeet Pandey",
   "license": "MIT",
   "scripts": {
-    "start": "webpack-dev-server .",
+    "start": "webpack serve --open",
     "build": "webpack"
   },
   "devDependencies": {
